@@ -1,6 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
+  "homepage": "https://MikAoJk.github.io/calculator",
   "private": true,
   "scripts": {
     "dev": "next dev",
